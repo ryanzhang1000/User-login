@@ -1,0 +1,50 @@
+a:hover {
+    color: yellow;
+    background-color: transparent;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.8); 
+    width: 600px;
+    border: 10px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 30px;
+    border: 2px solid purple;
+}
+
+html {
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    padding-top: 30px;
+}
+
+div.log {
+    background-color: purple;
+    padding: 30px;
+    color: white;
+}
+
+.login {
+    background-color: green;
+    color: white;
+    padding: 10px 25px;
+}
+
+div.facebook {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.link {
+    font-family: Georgia;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
